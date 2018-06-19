@@ -1,2 +1,2 @@
 # nginx_proyecto
-hola mundo
+hola mundo!
